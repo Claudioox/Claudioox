@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on FiveM Related projects...
-asd <a href="https://discord.com/users/371109695835996173"><p> Discord:</p></a>
+- asd <a href="https://discord.com/users/371109695835996173"><p> Discord:</p></a>
 <!--
 **Claudioox/Claudioox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
