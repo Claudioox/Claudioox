@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on FiveM Related projects...
-- <p>📫 How to reach me: <a href="https://discord.com/users/371109695835996173">Discord: .Claud10sツ#6695</a></p>
+- 📫 How to reach me:<p><a href="https://discord.com/users/371109695835996173">Discord:</a> Asdasdasd </p>
+
+<a href="https://github-readme-stats.vercel.app/api?username=Claudioox"</a> 
 <!--
 **Claudioox/Claudioox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
