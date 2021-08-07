@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on FiveM Related projects...
-- 📫 How to reach me: 
-<a href="https://discord.com/users/371109695835996173"><p> Discord:</p></a>
+<p> 📫 How to reach me: </p> <a href="https://discord.com/users/371109695835996173"><p> Discord:</p></a>
 <!--
 **Claudioox/Claudioox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
