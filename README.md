@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on FiveM Related projects.
 - <p>📫 How to reach me: <a href="https://discord.com/users/371109695835996173">Discord: .Claud10sツ#6695</a></p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Claudioox)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudioox)](https://github.com/Claudioox/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioox)](https://github.com/Claudioox/github-readme-stats)
 <!--
