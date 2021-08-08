@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on FiveM Related projects.
 - <p>📫 How to reach me: <a href="https://discord.com/users/371109695835996173">Discord: .Claud10sツ#6695</a></p>
 
-<br />
-
 ---
 
 ### Languages and Tools:
@@ -29,6 +27,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Claudioox's GitHub Stats" src="https://github-readme-stats.Claudioox.vercel.app/api?username=Claudioox&show_icons=true&hide_border=true" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </details>
