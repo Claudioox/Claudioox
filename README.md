@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on FiveM Related projects...
-- 📫 How to reach me:<p><a href="https://discord.com/users/371109695835996173">Discord:</a> Asdasdasd </p>
+- <p>📫 How to reach me: <a href="https://discord.com/users/371109695835996173">Discord: .Claud10sツ#6695</a></p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Claudioox)
 <!--
