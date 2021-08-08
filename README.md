@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on FiveM Related projects...
+- 🔭 I’m currently working on FiveM Related projects.
 - <p>📫 How to reach me: <a href="https://discord.com/users/371109695835996173">Discord: .Claud10sツ#6695</a></p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Claudioox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudioox)](https://github.com/Claudioox/github-readme-stats)
 <!--
 **Claudioox/Claudioox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
