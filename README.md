@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on FiveM Related projects.
-- <p>📫 How to reach me: <a href="https://discord.com/users/371109695835996173">Discord: .Claud10sツ#6695</a></p>
+🔭 I’m currently working on FiveM Related projects.
+<p>📫 How to reach me: <a href="https://discord.com/users/371109695835996173">Discord: .Claud10sツ#6695</a></p>
 
 ---
 
